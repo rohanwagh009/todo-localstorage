@@ -8,7 +8,7 @@ This is a dynamic, client-side To-Do List application built with vanilla JavaScr
 
 ## Screenshot
 
-![Todo App Demo](screenshot.png)
+![Todo App Demo](Screenshot-todo.png)
 
 ## Core Functionality
 
